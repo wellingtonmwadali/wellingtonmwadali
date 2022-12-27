@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wellington Mwadali</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate developer from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/mwadzaliii" target="blank"><img src="https://img.shields.io/twitter/follow/mwadzaliii?logo=twitter&style=for-the-badge" alt="mwadzaliii" /></a> </p>
 
