@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Wellington Mwadali</h1>
-<h3 align="center">Amateur Software Engineer</h3>
+<h3 align="center">Amateur Software Engineer :)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellingtonmwadali" alt="wellingtonmwadali" /></a> </p>
 
