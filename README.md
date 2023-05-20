@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **ALX projects**
 
-- 🌱 I’m currently learning **C programing**
+- 🌱 I’m currently learning ** python **
 
-- 💬 Ask me about **javascript,python,C**
+- 💬 Ask me about **javascript, python, C**
 
 - 📫 How to reach me **wellingtonmwadali@gmail.com**
 
