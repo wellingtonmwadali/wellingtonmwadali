@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wellington Mwadali</h1>
-<h3 align="center">Amateur Front End Developer</h3>
-# 💫 About Me:
+<h3 align="center">Amateur Front End Developer</h3><br><br>
 🔭 I’m currently an ALX Student<br>👯 Email me @wellingtonmwadali@gmail.com for collaboration or if you need help  <br>💬 You can chat with me by email too, say hi<br>⚡ Fun fact: I'm Spiderman but I don't have a mask 
 
 
@@ -13,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=wellingtonmwadali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wellingtonmwadali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmwadali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wellingtonmwadali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wellingtonmwadali&icon=6&color=0)](https://visitcount.itsvg.in)
