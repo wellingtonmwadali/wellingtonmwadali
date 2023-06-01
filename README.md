@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wellington Mwadali</h1>
 <h3 align="center">Amateur Front End Developer</h3><br><br>
-🔭 I’m currently an ALX Student<br>👯 Email me @wellingtonmwadali@gmail.com for collaboration or if you need help  <br>💬 You can chat with me by email too, say hi<br>⚡ Fun fact: I'm Spiderman but I don't have a mask 
+🔭 I’m currently an ALX Student<br>👯 Email me @wellingtonmwadali@gmail.com for collaboration or if you need help  <br>💬 You can chat with me by email too, say hi<br>⚡ Fun fact: I'm Spiderman but I don't wear a mask 
 
 
 ## 🌐 Socials:
