@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wellington Mwadali</h1>
-<h3 align="center">Amateur Software Engineer</h3>
+<h3 align="center">Amateur Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wellingtonmwadali&label=Profile%20views&color=0e75b6&style=flat" alt="wellingtonmwadali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mwadzaliii" target="blank"><img src="https://img.shields.io/twitter/follow/mwadzaliii?logo=twitter&style=for-the-badge" alt="mwadzaliii" /></a> </p>
 
-- 🔭 I’m currently working on **ALX projects**
-
-- 🌱 I’m currently learning ** python **
-
-- 💬 Ask me about **javascript, python, C**
+- 🔭 Current ALX Student
 
 - 📫 How to reach me **wellingtonmwadali@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I'm spiderman but I don't have a mask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
