@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m currently enrolled in ALX Software Engineering<br>- 📚 I'm currently learning to be better at my craft<br>- ⚡ I'm Spiderman though I don't wear a mask...</p>
+<p align="left">I'm ... from  Kenya....<br><br>- 🔭 I’m currently enrolled in ALX Software Engineering<br>- 📚 I'm currently learning to be better at my craft<br>- ⚡ I'm Spiderman though I don't wear a mask...</p>
 
 ###
 
