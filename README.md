@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <div style="flex-grow: 1;">
     <p style="color: pink; height: 210px; line-height: 70px; margin: 0;">
       amateur<br />
