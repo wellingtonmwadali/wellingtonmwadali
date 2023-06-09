@@ -1,15 +1,7 @@
-<div style="display: flex; align-items: left;">
-  <div style="flex-grow: 1;">
-    <p style="color: pink; height: 210px; line-height: 70px; margin: 0;">
-      amateur<br />
-      software<br />
-      engineer
-    </p>
-  </div>
-  <div style="flex-grow: 0;">
-    <img height="210" src="https://cdn.discordapp.com/attachments/760981234427756545/1116636407843270656/25d49f3c4c42d13f45e986cd98b52506.jpg" style="width: 210px;" />
-  </div>
+ <div align="center">
+  <img height="210" src="https://cdn.discordapp.com/attachments/760981234427756545/1116636407843270656/25d49f3c4c42d13f45e986cd98b52506.jpg"  />
 </div>
+
 
 
 ###
