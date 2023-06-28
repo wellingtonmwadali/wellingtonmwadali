@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">:)<br><br>- 🔭 I transport words to beautiful code <br>- 📚 I'm currently learning to better my craft.<br>- ⚡ I'm  Spiderman but I don't wear a mask</p>
+<p align="left">:)<br><br>- 🔭 I transform digital dreams to real code <br>- 📚 I'm currently learning to better my craft.<br>- ⚡ I'm  Spiderman but I don't wear a mask</p>
 
 ###
 
