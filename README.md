@@ -9,9 +9,6 @@
   <a href="https://twitter.com/mwadzaliii" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=purple&logoColor=pink&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=254790147060&text=Hello%20from%20Github%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
