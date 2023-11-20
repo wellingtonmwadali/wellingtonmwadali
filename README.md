@@ -19,10 +19,8 @@
 
 ###
 
-<h1 align="center">Amater Software Developer</h1>
-
-<div align="center">
+<h1>Amater Software Developer</h1>
 [![wellingtonmwadali's GitHub | Stats](https://stats.quine.sh/wellingtonmwadali/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=wellingtonmwadali)
-</div>
+
 
 
