@@ -22,7 +22,7 @@
 <h1 align ="center">Amater Software Developer</h1>
 <div align= "center>
   
-[![wellingtonmwadali's GitHub | Stats](https://stats.quine.sh/wellingtonmwadali/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=wellingtonmwadali)
+  <img src="https://github-readme-stats.vercel.app/api?username=wellingtonmwadali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 
