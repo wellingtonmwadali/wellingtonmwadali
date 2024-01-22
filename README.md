@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Amater Software Developer</h1>
+
 
  
   <div align="center">
